@@ -4,8 +4,24 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent
 DATA_FILE = ROOT / "data" / "toilets.json"
-TEMPLATE_FILE = ROOT / "README.template.md"
-README_FILE = ROOT / "README.md"
+
+LANGUAGES = {
+    "zh": {
+        "template": ROOT / "README.template.md",
+        "output": ROOT / "README.md",
+        "map_text": "📍 [Google Maps]"
+    },
+    "ja": {
+        "template": ROOT / "README.ja.template.md",
+        "output": ROOT / "README.ja.md",
+        "map_text": "📍 [Google Maps]"
+    },
+    "en": {
+        "template": ROOT / "README.en.template.md",
+        "output": ROOT / "README.en.md",
+        "map_text": "📍 [Google Maps]"
+    }
+}
 
 
 def load_toilets():
@@ -13,7 +29,17 @@ def load_toilets():
         return json.load(file)
 
 
-def generate_toilet_markdown(toilets):
+def sort_toilets(toilets):
+    return sorted(
+        toilets,
+        key=lambda toilet: (
+            toilet.get("rank") is None,
+            toilet.get("rank") or 999
+        )
+    )
+
+
+def generate_toilet_markdown(toilets, language):
     rank_emoji = {
         1: "🥇",
         2: "🥈",
@@ -24,17 +50,16 @@ def generate_toilet_markdown(toilets):
 
     for toilet in toilets:
         rank = toilet.get("rank")
+        emoji = rank_emoji.get(rank, "⭐")
 
-        if rank in rank_emoji:
-            emoji = rank_emoji[rank]
-        else:
-            emoji = "⭐"
-
-        name = toilet["name"]["zh"]
+        name = toilet["name"].get(language, "")
         designer = toilet.get("designer")
         designer_en = toilet.get("designer_en")
-        description = toilet.get("description", "")
+        description = toilet.get("description", {}).get(language, "")
         google_maps = toilet.get("google_maps")
+
+        address = toilet.get("address", {}).get(language, "")
+        tags = toilet.get("tags", {}).get(language, [])
 
         lines = []
 
@@ -49,18 +74,24 @@ def generate_toilet_markdown(toilets):
 
             lines.append("")
 
+        if address:
+            lines.append(f"📍 {address}")
+            lines.append("")
+
         if description:
             lines.append(description)
             lines.append("")
 
         if google_maps:
-            lines.append(f"📍 [Google Maps]({google_maps})")
+            lines.append(
+                f"🗺️ [Google Maps]({google_maps})"
+            )
             lines.append("")
 
-        tags = toilet.get("tags", [])
-
         if tags:
-            tag_text = " ".join(f"`{tag}`" for tag in tags)
+            tag_text = " ".join(
+                f"`{tag}`" for tag in tags
+            )
             lines.append(tag_text)
             lines.append("")
 
@@ -72,30 +103,37 @@ def generate_toilet_markdown(toilets):
     return "\n".join(sections)
 
 
-def main():
-    toilets = load_toilets()
+def generate_readme(toilets, language):
+    config = LANGUAGES[language]
 
-    toilets.sort(
-        key=lambda toilet: (
-            toilet.get("rank") is None,
-            toilet.get("rank") or 999
-        )
-    )
-
-    toilet_markdown = generate_toilet_markdown(toilets)
-
-    with open(TEMPLATE_FILE, "r", encoding="utf-8") as file:
+    with open(config["template"], "r", encoding="utf-8") as file:
         template = file.read()
+
+    toilet_markdown = generate_toilet_markdown(
+        toilets,
+        language
+    )
 
     readme = template.replace(
         "<!-- TOILETS -->",
         toilet_markdown
     )
 
-    with open(README_FILE, "w", encoding="utf-8") as file:
+    with open(config["output"], "w", encoding="utf-8") as file:
         file.write(readme)
 
-    print(f"README.md 已生成，共 {len(toilets)} 个厕所。")
+
+def main():
+    toilets = load_toilets()
+    toilets = sort_toilets(toilets)
+
+    for language in LANGUAGES:
+        generate_readme(toilets, language)
+
+    print(
+        f"README generated successfully: "
+        f"{len(toilets)} toilets × {len(LANGUAGES)} languages"
+    )
 
 
 if __name__ == "__main__":

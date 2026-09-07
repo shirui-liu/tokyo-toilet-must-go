@@ -1,4 +1,4 @@
-name: Generate README
+name: Generate multilingual README
 
 on:
   push:
@@ -7,6 +7,8 @@ on:
     paths:
       - "data/toilets.json"
       - "README.template.md"
+      - "README.ja.template.md"
+      - "README.en.template.md"
       - "generate_readme.py"
       - ".github/workflows/generate-readme.yml"
 
@@ -28,19 +30,19 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Generate README
+      - name: Generate multilingual README
         run: python generate_readme.py
 
-      - name: Commit updated README
+      - name: Commit updated README files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md
+          git add README.md README.ja.md README.en.md
 
           if git diff --cached --quiet; then
-            echo "README.md 没有变化"
+            echo "README files have no changes"
           else
-            git commit -m "chore: update README"
+            git commit -m "chore: update multilingual README"
             git push
           fi
