@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="东京特色厕所打卡指南与实用找厕攻略。">
+  <title>东京必拉榜 | Tokyo Toilet Guide</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="topbar" aria-label="主导航">
+      <a class="brand" href="./">TT<span>/</span>GUIDE</a>
+      <div class="language-switcher" role="group" aria-label="语言">
+        <button class="language-button is-active" data-language="zh">中文</button>
+        <button class="language-button" data-language="ja">日本語</button>
+        <button class="language-button" data-language="en">English</button>
+      </div>
+    </nav>
+    <div class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow" data-copy="eyebrow">TOKYO / PUBLIC SPACE / 2026</p>
+        <h1 data-copy="title">东京<br><em>必拉榜</em></h1>
+        <p class="hero-intro" data-copy="intro">不只是解决生理需求。收录值得专程去看、适合打卡，也真正好用的城市厕所。</p>
+        <a class="hero-link" href="https://maps.app.goo.gl/NVnmeQ5DMZ3W9wmJ8" target="_blank" rel="noreferrer" data-copy="mapLink">打开东京厕所地图 <span>↗</span></a>
+      </div>
+      <div class="hero-mark" aria-hidden="true"><span>🚽</span><strong>TOILET<br>IS<br>CITY</strong></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="directory-section" aria-labelledby="directory-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow" data-copy="directoryEyebrow">THE DIRECTORY</p>
+          <h2 id="directory-title" data-copy="directoryTitle">值得绕路的厕所</h2>
+        </div>
+        <p class="section-note" data-copy="directoryNote">按推荐顺序排列<br>涩谷及周边区域</p>
+      </div>
+      <div class="toolbar">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" data-copy-placeholder="search" placeholder="搜索名称、设计师或区域"></label>
+        <div class="result-count" id="result-count" aria-live="polite"></div>
+      </div>
+      <div class="toilet-grid" id="toilet-grid" aria-live="polite"></div>
+      <div class="empty-state" id="empty-state" hidden data-copy="empty">没有找到匹配的厕所。</div>
+    </section>
+
+    <section class="tips-section" aria-labelledby="tips-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow" data-copy="tipsEyebrow">QUICK TIPS</p>
+          <h2 id="tips-title" data-copy="tipsTitle">急用时，先看这里</h2>
+        </div>
+      </div>
+      <div class="tips-grid">
+        <article class="tip"><span>01</span><h3 data-copy="tip1Title">优先找车站</h3><p data-copy="tip1Text">JR、Tokyo Metro、都营地下铁和私铁车站通常是最快的选择。</p></article>
+        <article class="tip"><span>02</span><h3 data-copy="tip2Title">商场最稳</h3><p data-copy="tip2Text">百货公司、大型商场和电器城的设施通常更完善。</p></article>
+        <article class="tip"><span>03</span><h3 data-copy="tip3Title">地图搜关键词</h3><p data-copy="tip3Text">在 Google Maps 搜索「トイレ」或「公衆トイレ」。</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>TT/GUIDE · THE TOKYO TOILET FIELD NOTES</p>
+    <a href="https://github.com/shirui-liu/tokyo-toilet-must-go" target="_blank" rel="noreferrer">View on GitHub ↗</a>
+  </footer>
+</body>
+</html>
