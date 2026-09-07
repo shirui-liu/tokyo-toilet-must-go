@@ -18,6 +18,10 @@
 
 ⭐ 为特色推荐，不代表具体排名。
 
+🗺️ **[在 Google Maps 查看全部厕所](https://maps.app.goo.gl/NVnmeQ5DMZ3W9wmJ8)**
+
+> 📍 已收录的厕所均可在 Google Maps 中查看位置，并可直接用于导航。
+
 ---
 
 ### 🥇 代代木深町小公园厕所
@@ -112,7 +116,7 @@
 
 惠比寿公园内极具特色的迷宫式厕所，由片山正通 / Wonderwall 设计。内部空间曲折，非常有辨识度。
 
-🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=恵比寿公園トイレ)
+🗺️ [Google Maps](https://maps.app.goo.gl/CU5pkm3U3qQMHaUbA)
 
 `迷宫` `设计` `THE TOKYO TOILET`
 

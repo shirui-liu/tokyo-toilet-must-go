@@ -18,10 +18,6 @@ From public toilets designed by world-famous architects to luxurious facilities 
 
 ⭐ indicates a featured toilet without a specific ranking.
 
-🗺️ **[View all toilets on Google Maps](https://maps.app.goo.gl/NVnmeQ5DMZ3W9wmJ8)**
-
-> 📍 All listed toilets are available on Google Maps, where you can check their locations and get directions.
-
 ---
 
 ### 🥇 Yoyogi Fukamachi Mini Park Toilet
@@ -116,7 +112,7 @@ Designed by Junko Kobayashi, this public toilet places particular emphasis on co
 
 Located in Ebisu Park, this distinctive maze-like toilet was designed by Masamichi Katayama / Wonderwall. Its winding interior layout makes it particularly memorable.
 
-🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=恵比寿公園トイレ)
+🗺️ [Google Maps](https://maps.app.goo.gl/CU5pkm3U3qQMHaUbA)
 
 `Maze` `Design` `THE TOKYO TOILET`
 

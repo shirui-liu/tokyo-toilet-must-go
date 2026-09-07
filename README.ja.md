@@ -18,6 +18,10 @@
 
 ⭐ は特色のあるおすすめスポットで、順位はつけていません。
 
+🗺️ **[Google Mapsで全トイレを見る](https://maps.app.goo.gl/NVnmeQ5DMZ3W9wmJ8)**
+
+> 📍 掲載されているトイレはすべてGoogle Mapsで場所を確認でき、そのままナビゲーションにも利用できます。
+
 ---
 
 ### 🥇 代々木深町小公園トイレ
@@ -112,7 +116,7 @@
 
 恵比寿公園にある、片山正通 / Wonderwallによる迷路のようなデザインが特徴の公衆トイレ。内部の動線が複雑で、非常に印象的です。
 
-🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=恵比寿公園トイレ)
+🗺️ [Google Maps](https://maps.app.goo.gl/CU5pkm3U3qQMHaUbA)
 
 `迷路` `デザイン` `THE TOKYO TOILET`
 
