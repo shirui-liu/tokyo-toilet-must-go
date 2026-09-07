@@ -99,3 +99,18 @@ h2 { font-size: clamp(2.3rem, 5vw, 4.4rem); line-height: .95; letter-spacing: -.
   .card-links { margin-top: 8px; }
   .site-footer { gap: 14px; }
 }
+
+.topbar-actions { display: flex; align-items: center; gap: 14px; }
+.github-link { display: grid; place-items: center; width: 31px; height: 31px; border: 1px solid var(--ink); border-radius: 50%; }
+.github-link:hover { background: var(--ink); color: var(--paper); }
+.github-link svg { width: 16px; height: 16px; fill: currentColor; }
+.map-section { padding: 100px 6vw; background: var(--card); border-bottom: 1px solid var(--line); }
+.toilet-map { height: min(62vw, 610px); min-height: 390px; border: 1px solid var(--ink); background: #dce6db; }
+.map-marker { background: none; border: 0; }
+.map-marker span { display: grid; place-items: center; width: 32px; height: 32px; border: 1px solid var(--ink); border-radius: 50%; background: var(--yellow); box-shadow: 2px 2px 0 var(--ink); font: 500 .68rem var(--mono); }
+.leaflet-popup-content { min-width: 170px; margin: 16px 18px; font-family: var(--sans); }
+.leaflet-popup-content strong, .leaflet-popup-content small, .leaflet-popup-content a { display: block; }
+.leaflet-popup-content strong { line-height: 1.2; }
+.leaflet-popup-content small { color: var(--muted); margin: 7px 0 13px; line-height: 1.35; }
+.leaflet-popup-content a { color: var(--blue); font: .68rem var(--mono); }
+@media (max-width: 720px) { .map-section { padding-top: 72px; padding-bottom: 72px; } .toilet-map { height: 82vw; min-height: 360px; } }
