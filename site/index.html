@@ -5,14 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="东京特色厕所打卡指南与实用找厕攻略。">
   <title>东京必拉榜 | Tokyo Toilet Guide</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="style.css">
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="script.js" defer></script>
 </head>
 <body>
   <header class="site-header">
     <nav class="topbar" aria-label="主导航">
       <a class="brand" href="./">TT<span>/</span>GUIDE</a>
-      <div class="language-switcher" role="group" aria-label="语言">
+      <div class="topbar-actions"><a class="github-link" href="https://github.com/shirui-liu/tokyo-toilet-must-go" target="_blank" rel="noreferrer" aria-label="View the project on GitHub"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 0C3.58 0 0 3.67 0 8.2c0 3.62 2.29 6.69 5.47 7.77.4.08.55-.18.55-.4 0-.19-.01-.84-.01-1.52-2.01.38-2.53-.5-2.69-.96-.09-.24-.48-.96-.82-1.15-.28-.16-.68-.55-.01-.56.63-.01 1.08.59 1.23.83.72 1.24 1.87.89 2.33.68.07-.53.28-.89.51-1.09-1.78-.21-3.64-.91-3.64-4.04 0-.89.31-1.62.82-2.19-.08-.21-.36-1.04.08-2.17 0 0 .67-.22 2.2.84A7.42 7.42 0 0 1 8 5.04c.68 0 1.36.09 2 .27 1.53-1.06 2.2-.84 2.2-.84.44 1.13.16 1.96.08 2.17.51.57.82 1.3.82 2.19 0 3.14-1.87 3.83-3.65 4.04.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.47.55.4A8.2 8.2 0 0 0 16 8.2C16 3.67 12.42 0 8 0Z"/></svg></a><div class="language-switcher" role="group" aria-label="语言">
         <button class="language-button is-active" data-language="zh">中文</button>
         <button class="language-button" data-language="ja">日本語</button>
         <button class="language-button" data-language="en">English</button>
@@ -30,6 +32,8 @@
   </header>
 
   <main>
+    <section class="map-section" aria-labelledby="map-title"><div class="section-heading"><div><p class="eyebrow" data-copy="mapEyebrow">ALL PLACES, ONE MAP</p><h2 id="map-title" data-copy="mapTitle">一张图看完全部地点</h2></div><p class="section-note" data-copy="mapNote">点击标记查看地点<br>并在 Google Maps 导航</p></div><div id="toilet-map" class="toilet-map"></div></section>
+
     <section class="directory-section" aria-labelledby="directory-title">
       <div class="section-heading">
         <div>
