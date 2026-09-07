@@ -172,6 +172,90 @@ Hotel Gajoen Tokyo is famous for its lavish interiors and art spaces, and its to
 
 ---
 
+### ⭐ Ebisu Station West Exit Public Toilet
+
+**佐藤可士和｜Kashiwa Sato**
+
+📍 1-5-8 Ebisu-Minami, Shibuya, Tokyo
+
+Located near the west exit of Ebisu Station, this public toilet was designed by Kashiwa Sato. Its central cube is surrounded by floating aluminum louvers, creating a distinctive minimalist and contemporary appearance.
+
+🗺️ [Google Maps](https://maps.app.goo.gl/x1PGaWdhUBzMN9T1A)
+
+`THE TOKYO TOILET` `Kashiwa Sato` `Near station` `Design toilet`
+
+---
+
+### ⭐ Hatagaya Public Toilet
+
+**Miles Pennington / 东京大学 DLX Design Lab｜Miles Pennington / University of Tokyo DLX Design Lab**
+
+📍 3-37-8 Hatagaya, Shibuya, Tokyo
+
+Designed by Miles Pennington and the University of Tokyo DLX Design Lab, this is one of the distinctive public toilets created as part of THE TOKYO TOILET project.
+
+🗺️ [Google Maps](https://maps.app.goo.gl/VwmGoX59LdkND6YW9)
+
+`THE TOKYO TOILET` `Miles Pennington` `University of Tokyo` `Design toilet`
+
+---
+
+### ⭐ Hiroo Higashi Park Toilet
+
+**后智仁｜Tomohito Ushiro**
+
+📍 4-2-27 Hiroo, Shibuya, Tokyo
+
+Located in Hiroo Higashi Park and designed by Tomohito Ushiro, the toilet features a large illuminated panel with numerous lighting patterns, giving the building different expressions by day and night.
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=広尾東公園トイレ)
+
+`THE TOKYO TOILET` `Tomohito Ushiro` `Park toilet` `Lighting`
+
+---
+
+### ⭐ Ebisu Higashi Park Toilet
+
+**槙文彦｜Fumihiko Maki**
+
+📍 1-2-16 Ebisu, Shibuya, Tokyo
+
+Designed by architect Fumihiko Maki, this toilet stands in Ebisu Higashi Park, known locally as the “Octopus Park.” Its soft curves are inspired by a squid, while translucent glass creates a gentle atmosphere.
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=恵比寿東公園トイレ)
+
+`THE TOKYO TOILET` `Fumihiko Maki` `Architecture` `Park toilet`
+
+---
+
+### ⭐ Higashi 3-chome Public Toilet
+
+**田村奈穂｜Nao Tamura**
+
+📍 3-27-1 Higashi, Shibuya, Tokyo
+
+A striking red public toilet along the Yamanote Line, designed by Nao Tamura with a focus on privacy, safety, and inclusivity. It also appears in the film “Perfect Days.”
+
+🗺️ [Google Maps](https://maps.app.goo.gl/P8wgrMy1ktBDtUXw5)
+
+`THE TOKYO TOILET` `Nao Tamura` `Red architecture` `Perfect Days`
+
+---
+
+### ⭐ Nishihara 1-chome Park Toilet
+
+**坂倉竹之助｜Takenosuke Sakakura**
+
+📍 1-29-1 Nishihara, Shibuya, Tokyo
+
+Designed by architect Takenosuke Sakakura around the concept of an “andon” lantern. Light and openness are used to improve the park environment, turning the toilet itself into a welcoming public space.
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=西原一丁目公園トイレ)
+
+`THE TOKYO TOILET` `Takenosuke Sakakura` `ANDON` `Lantern toilet`
+
+---
+
 
 ## 🗺️ Practical Guide to Finding Toilets in Tokyo
 

@@ -176,6 +176,90 @@ SUPPOSE DESIGN OFFICEが設計。高さ約7.5mの壁と浮遊するような構�
 
 ---
 
+### ⭐ 恵比寿駅西口公衆トイレ
+
+**佐藤可士和｜Kashiwa Sato**
+
+📍 東京都渋谷区恵比寿南1-5-8
+
+恵比寿駅西口の近くにある、佐藤可士和デザインの公共トイレ。中央のキューブをアルミルーバーで囲む、ミニマルで現代的なデザインが特徴です。
+
+🗺️ [Google Maps](https://maps.app.goo.gl/x1PGaWdhUBzMN9T1A)
+
+`THE TOKYO TOILET` `佐藤可士和` `駅近` `デザイン・トイレ`
+
+---
+
+### ⭐ 幡ヶ谷公衆トイレ
+
+**Miles Pennington / 东京大学 DLX Design Lab｜Miles Pennington / University of Tokyo DLX Design Lab**
+
+📍 東京都渋谷区幡ヶ谷3-37-8
+
+マイルス・ペニントンと東京大学DLXデザインラボが手がけた、THE TOKYO TOILETの特徴的な公共トイレのひとつです。
+
+🗺️ [Google Maps](https://maps.app.goo.gl/VwmGoX59LdkND6YW9)
+
+`THE TOKYO TOILET` `Miles Pennington` `東京大学` `デザイン・トイレ`
+
+---
+
+### ⭐ 広尾東公園トイレ
+
+**后智仁｜Tomohito Ushiro**
+
+📍 東京都渋谷区広尾4-2-27
+
+広尾東公園内にある、後智仁デザインの公共トイレ。建物裏側の大きな照明パネルには多数のライティングパターンがあり、昼と夜で異なる表情を見せます。
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=広尾東公園トイレ)
+
+`THE TOKYO TOILET` `後智仁` `公園トイレ` `ライティング`
+
+---
+
+### ⭐ 恵比寿東公園トイレ
+
+**槙文彦｜Fumihiko Maki**
+
+📍 東京都渋谷区恵比寿1-2-16
+
+建築家・槇文彦が手がけた、通称「タコ公園」と呼ばれる恵比寿東公園のトイレ。イカをモチーフにした柔らかな曲線と、すりガラスから差し込む光が特徴です。
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=恵比寿東公園トイレ)
+
+`THE TOKYO TOILET` `槇文彦` `建築デザイン` `公園トイレ`
+
+---
+
+### ⭐ 東三丁目公衆トイレ
+
+**田村奈穂｜Nao Tamura**
+
+📍 東京都渋谷区東3-27-1
+
+山手線沿いにある、ひときわ目を引く赤い公共トイレ。田村奈穂がプライバシー、安全性、インクルーシブ性を重視してデザインし、映画『PERFECT DAYS』にも登場しました。
+
+🗺️ [Google Maps](https://maps.app.goo.gl/P8wgrMy1ktBDtUXw5)
+
+`THE TOKYO TOILET` `田村奈穂` `赤い建築` `Perfect Days`
+
+---
+
+### ⭐ 西原一丁目公園トイレ
+
+**坂倉竹之助｜Takenosuke Sakakura**
+
+📍 東京都渋谷区西原1-29-1
+
+建築家・坂倉竹之助が「行燈（ANDON）」をコンセプトにデザイン。光と開放感を取り入れ、トイレそのものが公園を照らす公共空間となることを目指しています。
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=西原一丁目公園トイレ)
+
+`THE TOKYO TOILET` `坂倉竹之助` `ANDON` `行燈トイレ`
+
+---
+
 
 ## 🗺️ 東京でトイレを探す実用ガイド
 

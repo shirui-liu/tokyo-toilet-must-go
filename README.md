@@ -176,6 +176,90 @@
 
 ---
 
+### ⭐ 惠比寿站西口公共厕所
+
+**佐藤可士和｜Kashiwa Sato**
+
+📍 东京都涩谷区惠比寿南1-5-8
+
+位于惠比寿站西口附近，由佐藤可士和设计。以悬浮的铝制格栅包围中央立方体，细密的线条让整个厕所具有非常鲜明的现代设计感。
+
+🗺️ [Google Maps](https://maps.app.goo.gl/x1PGaWdhUBzMN9T1A)
+
+`THE TOKYO TOILET` `佐藤可士和` `车站附近` `设计厕所`
+
+---
+
+### ⭐ 幡谷公共厕所
+
+**Miles Pennington / 东京大学 DLX Design Lab｜Miles Pennington / University of Tokyo DLX Design Lab**
+
+📍 东京都涩谷区幡谷3-37-8
+
+由 Miles Pennington 与东京大学 DLX Design Lab 共同参与设计，是 THE TOKYO TOILET 项目中较为独特的一座公共厕所。
+
+🗺️ [Google Maps](https://maps.app.goo.gl/VwmGoX59LdkND6YW9)
+
+`THE TOKYO TOILET` `Miles Pennington` `东京大学` `设计厕所`
+
+---
+
+### ⭐ 广尾东公园厕所
+
+**后智仁｜Tomohito Ushiro**
+
+📍 东京都涩谷区广尾4-2-27
+
+位于广尾东公园内，由后智仁设计。厕所背面的巨大照明面板拥有大量不同的灯光变化，让建筑在白天与夜晚呈现完全不同的表情。
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=広尾東公園トイレ)
+
+`THE TOKYO TOILET` `后智仁` `公园厕所` `灯光设计`
+
+---
+
+### ⭐ 惠比寿东公园厕所
+
+**槙文彦｜Fumihiko Maki**
+
+📍 东京都涩谷区惠比寿1-2-16
+
+由建筑师槙文彦设计，位于被称为“章鱼公园”的惠比寿东公园。厕所采用鱿鱼般的柔和曲线造型，半透明玻璃带来柔和的自然光。
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=恵比寿東公園トイレ)
+
+`THE TOKYO TOILET` `槙文彦` `建筑设计` `公园厕所`
+
+---
+
+### ⭐ 东三丁目公共厕所
+
+**田村奈穂｜Nao Tamura**
+
+📍 东京都涩谷区东3-27-1
+
+一座位于山手线沿线的醒目红色厕所，由田村奈穂设计。设计强调隐私、安全与包容性，并因出现在电影《Perfect Days》中而受到关注。
+
+🗺️ [Google Maps](https://maps.app.goo.gl/P8wgrMy1ktBDtUXw5)
+
+`THE TOKYO TOILET` `田村奈穂` `红色建筑` `Perfect Days`
+
+---
+
+### ⭐ 西原一丁目公园厕所
+
+**坂倉竹之助｜Takenosuke Sakakura**
+
+📍 东京都涩谷区西原1-29-1
+
+由建筑师坂倉竹之助设计，以“行灯（ANDON）”为概念。建筑通过光线与开放感改善公园环境，让厕所本身成为照亮公园的公共空间。
+
+🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=西原一丁目公園トイレ)
+
+`THE TOKYO TOILET` `坂倉竹之助` `ANDON` `灯笼厕所`
+
+---
+
 
 ## 🗺️ 东京找厕所实用攻略
 
