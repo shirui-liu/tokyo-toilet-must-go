@@ -18,6 +18,10 @@ From public toilets designed by world-famous architects to luxurious facilities 
 
 ⭐ indicates a featured toilet without a specific ranking.
 
+🗺️ **[View all toilets on Google Maps](https://maps.app.goo.gl/NVnmeQ5DMZ3W9wmJ8)**
+
+> 📍 All listed toilets are available on Google Maps, where you can check their locations and get directions.
+
 ---
 
 ### 🥇 Yoyogi Fukamachi Mini Park Toilet

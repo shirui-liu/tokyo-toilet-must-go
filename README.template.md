@@ -18,6 +18,10 @@
 
 ⭐ 为特色推荐，不代表具体排名。
 
+🗺️ **[在 Google Maps 查看全部厕所](https://maps.app.goo.gl/NVnmeQ5DMZ3W9wmJ8)**
+
+> 📍 已收录的厕所均可在 Google Maps 中查看位置，并可直接用于导航。
+
 ---
 
 <!-- TOILETS -->

@@ -18,6 +18,10 @@
 
 ⭐ は特色のあるおすすめスポットで、順位はつけていません。
 
+🗺️ **[Google Mapsで全トイレを見る](https://maps.app.goo.gl/NVnmeQ5DMZ3W9wmJ8)**
+
+> 📍 掲載されているトイレはすべてGoogle Mapsで場所を確認でき、そのままナビゲーションにも利用できます。
+
 ---
 
 <!-- TOILETS -->
