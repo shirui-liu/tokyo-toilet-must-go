@@ -42,7 +42,7 @@ Designed by architect Shigeru Ban, this toilet uses transparent colored glass wa
 
 Designed by Kengo Kuma, this public toilet focuses on harmony between timber architecture and the surrounding natural environment. The building blends naturally into the park.
 
-🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=鍋島松濤公園トイレ)
+🗺️ [Google Maps](https://maps.app.goo.gl/b2ADDNTPpFDqnsRe7)
 
 `Architecture` `Kengo Kuma` `THE TOKYO TOILET`
 

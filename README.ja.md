@@ -46,7 +46,7 @@
 
 隈研吾が設計した、木材と自然環境との調和をテーマにした公衆トイレ。公園の景観に自然に溶け込むデザインが特徴です。
 
-🗺️ [Google Maps](https://www.google.com/maps/search/?api=1&query=鍋島松濤公園トイレ)
+🗺️ [Google Maps](https://maps.app.goo.gl/b2ADDNTPpFDqnsRe7)
 
 `建築デザイン` `隈研吾` `THE TOKYO TOILET`
 
