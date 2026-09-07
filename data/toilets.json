@@ -60,8 +60,8 @@
       "ja": "東京都渋谷区松濤2-10-7",
       "en": "2-10-7 Shoto, Shibuya-ku, Tokyo"
     },
-    "google_maps": "https://www.google.com/maps/search/?api=1&query=鍋島松濤公園トイレ",
-    "official_page": "https://tokyotoilet.jp/nabeshima/",
+    "google_maps": "https://maps.app.goo.gl/b2ADDNTPpFDqnsRe7",
+    "official_page": "https://tokyotoilet.jp/nabesima_park/",
     "tags": {
       "zh": [
         "建筑设计",
@@ -106,7 +106,7 @@
       "en": "6-22-8 Jingumae, Shibuya-ku, Tokyo"
     },
     "google_maps": "https://www.google.com/maps/search/?api=1&query=神宮通公園トイレ",
-    "official_page": "https://tokyotoilet.jp/jingudori/",
+    "official_page": "https://tokyotoilet.jp/jingu-dori_park/",
     "tags": {
       "zh": [
         "建筑设计",
@@ -331,7 +331,7 @@
       "en": "5-1-2 Yoyogi, Shibuya-ku, Tokyo"
     },
     "google_maps": "https://www.google.com/maps/search/?api=1&query=代々木八幡公衆トイレ",
-    "official_page": "https://tokyotoilet.jp/yoyogihachiman/",
+    "official_page": "https://tokyotoilet.jp/yoyogi_hachiman/",
     "tags": {
       "zh": [
         "建筑设计",
@@ -376,7 +376,7 @@
       "en": "5-68-1 Yoyogi, Shibuya-ku, Tokyo"
     },
     "google_maps": "https://www.google.com/maps/search/?api=1&query=はるのおがわコミュニティパークトイレ",
-    "official_page": "https://tokyotoilet.jp/harunogawa/",
+    "official_page": "https://tokyotoilet.jp/haruno_ogawa/",
     "tags": {
       "zh": [
         "建筑设计",
@@ -421,7 +421,7 @@
       "en": "1-chome Sendagaya, Shibuya-ku, Tokyo"
     },
     "google_maps": "https://www.google.com/maps/search/?api=1&query=千駄ヶ谷駅前公衆トイレ",
-    "official_page": "https://tokyotoilet.jp/sendagaya/",
+    "official_page": "https://casabrutus.com/categories/architecture/157707",
     "tags": {
       "zh": [
         "建筑设计",
@@ -535,6 +535,7 @@
       "en": "Located near the west exit of Ebisu Station, this public toilet was designed by Kashiwa Sato. Its central cube is surrounded by floating aluminum louvers, creating a distinctive minimalist and contemporary appearance."
     },
     "google_maps": "https://maps.app.goo.gl/x1PGaWdhUBzMN9T1A",
+    "official_page": "https://tokyotoilet.jp/ebisu_station_west_exit/",
     "coordinates": [
       35.6466,
       139.709
@@ -581,6 +582,7 @@
       "en": "Designed by Miles Pennington and the University of Tokyo DLX Design Lab, this is one of the distinctive public toilets created as part of THE TOKYO TOILET project."
     },
     "google_maps": "https://maps.app.goo.gl/VwmGoX59LdkND6YW9",
+    "official_page": "https://tokyotoilet.jp/htagaya/",
     "coordinates": [
       35.6768,
       139.6766
@@ -627,6 +629,7 @@
       "en": "Located in Hiroo Higashi Park and designed by Tomohito Ushiro, the toilet features a large illuminated panel with numerous lighting patterns, giving the building different expressions by day and night."
     },
     "google_maps": "https://www.google.com/maps/search/?api=1&query=広尾東公園トイレ",
+    "official_page": "https://tokyotoilet.jp/hiroo_higashi/",
     "coordinates": [
       35.6501,
       139.7206
@@ -673,6 +676,7 @@
       "en": "Designed by architect Fumihiko Maki, this toilet stands in Ebisu Higashi Park, known locally as the “Octopus Park.” Its soft curves are inspired by a squid, while translucent glass creates a gentle atmosphere."
     },
     "google_maps": "https://www.google.com/maps/search/?api=1&query=恵比寿東公園トイレ",
+    "official_page": "https://tokyotoilet.jp/ebisu_east_park/",
     "coordinates": [
       35.6457,
       139.7115
@@ -719,6 +723,7 @@
       "en": "A striking red public toilet along the Yamanote Line, designed by Nao Tamura with a focus on privacy, safety, and inclusivity. It also appears in the film “Perfect Days.”"
     },
     "google_maps": "https://maps.app.goo.gl/P8wgrMy1ktBDtUXw5",
+    "official_page": "https://tokyotoilet.jp/higashi_sanchome/",
     "coordinates": [
       35.6444,
       139.7113
@@ -765,6 +770,7 @@
       "en": "Designed by architect Takenosuke Sakakura around the concept of an “andon” lantern. Light and openness are used to improve the park environment, turning the toilet itself into a welcoming public space."
     },
     "google_maps": "https://www.google.com/maps/search/?api=1&query=西原一丁目公園トイレ",
+    "official_page": "http://tokyotoilet.jp/nishihara_itchome_park/",
     "coordinates": [
       35.6764,
       139.6818
