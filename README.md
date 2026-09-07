@@ -2,6 +2,8 @@
 
 > 东京特色厕所打卡指南 & 实用找厕攻略
 
+>网站本体：https://shirui-liu.github.io/tokyo-toilet-must-go/site/
+
 [🇨🇳 中文](README.md) | [🇯🇵 日本語](README.ja.md) | [🇬🇧 English](README.en.md)
 
 ---
