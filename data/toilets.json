@@ -1,0 +1,245 @@
+[
+  {
+    "id": "yoyogi-fukamachi",
+    "rank": 1,
+    "name": {
+      "zh": "代代木深町小园彩色透明厕所",
+      "ja": "代々木深町小公園トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "坂 茂",
+    "designer_en": "Shigeru Ban",
+    "address": "東京都渋谷区富ヶ谷1-54-1",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=代々木深町小公園トイレ",
+    "official_page": "https://tokyotoilet.jp/yoyogifukamachi_mini_park/",
+    "tags": [
+      "坂茂",
+      "透明玻璃",
+      "彩色",
+      "夜景",
+      "电影取景地"
+    ],
+    "description": "坂茂设计的彩色透明玻璃厕所。未使用时透明可见内部，一旦关门便变成磨砂不透明。夜晚亮灯后像公园里的温暖灯笼，橙、粉、紫的配色非常适合拍照，也是电影《完美的日子》的相关取景地。"
+  },
+  {
+    "id": "nabeshima-shoto",
+    "rank": 2,
+    "name": {
+      "zh": "锅岛松涛公园森林木屋厕",
+      "ja": "鍋島松濤公園トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "隈 研吾",
+    "designer_en": "Kengo Kuma",
+    "address": "東京都渋谷区松濤2-10-7",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=鍋島松濤公園トイレ",
+    "official_page": "https://tokyotoilet.jp/nabesima_park/",
+    "tags": [
+      "隈研吾",
+      "木造",
+      "森林",
+      "森系",
+      "建筑打卡"
+    ],
+    "description": "隈研吾设计的森林中的厕所村。5栋杉木板小屋错落分布，以随机角度的杉木板百叶窗包裹，并通过「森のコミチ」连接起来，仿佛消失在公园绿意之中。"
+  },
+  {
+    "id": "hotel-gajoen",
+    "rank": 3,
+    "name": {
+      "zh": "目黑雅叙园豪华卫生间",
+      "ja": "ホテル雅叙園東京のお手洗い"
+    },
+    "type": "hotel",
+    "designer": null,
+    "address": "東京都目黒区下目黒1-8-1",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=ホテル雅叙園東京",
+    "official_page": "https://www.hotelgajoen-tokyo.com/",
+    "tags": [
+      "目黑雅叙园",
+      "日式宫殿",
+      "螺钿",
+      "金箔",
+      "朱漆",
+      "豪华"
+    ],
+    "description": "目黑雅叙园著名的豪华卫生间。朱漆、金箔、螺钿花鸟装饰与日式绘画铺满空间，内部甚至有流水与朱漆小桥，整体更像一座小型日式宫殿而非普通公共卫生间。"
+  },
+  {
+    "id": "urasando",
+    "rank": null,
+    "name": {
+      "zh": "裏参道公厕",
+      "ja": "裏参道公衆トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "马克·纽森",
+    "designer_en": "Marc Newson",
+    "address": "東京都渋谷区千駄ヶ谷4-28-1",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=裏参道公衆トイレ",
+    "official_page": "https://tokyotoilet.jp/urasando/",
+    "tags": [
+      "Marc Newson",
+      "铜材质",
+      "绿色",
+      "未来感",
+      "高架下"
+    ],
+    "description": "Marc Newson设计的公共厕所。建筑采用铜板葺的传统屋顶形式与石垣元素，内部则使用明亮的绿色无缝设计，传统外观与现代室内形成鲜明反差。"
+  },
+  {
+    "id": "jingu-dori-park",
+    "rank": null,
+    "name": {
+      "zh": "神宫通公园公厕",
+      "ja": "神宮通公園トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "安藤忠雄",
+    "designer_en": "Tadao Ando",
+    "address": "東京都渋谷区神宮前6-22-8",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=神宮通公園トイレ",
+    "official_page": "https://tokyotoilet.jp/jingu-dori_park/",
+    "tags": [
+      "安藤忠雄",
+      "清水混凝土",
+      "圆形",
+      "自然光",
+      "极简"
+    ],
+    "description": "安藤忠雄设计的「あまやどり」。圆形建筑配合纵向格栅，让自然光和空气进入内部，同时通过大屋檐形成可以避雨的空间。清水混凝土与光影构成极具安藤忠雄风格的建筑体验。"
+  },
+  {
+    "id": "nishisando",
+    "rank": null,
+    "name": {
+      "zh": "西参道「器・泉」公厕",
+      "ja": "西参道公衆トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "藤本壮介",
+    "designer_en": "Sou Fujimoto",
+    "address": "東京都渋谷区代々木3-27-1",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=西参道公衆トイレ",
+    "official_page": "https://tokyotoilet.jp/nishisando/",
+    "tags": [
+      "藤本壮介",
+      "白色",
+      "水",
+      "洗手池",
+      "无障碍"
+    ],
+    "description": "藤本壮介设计的白色弧形公共厕所。建筑曲线以器皿为灵感，中央设置大型洗手池，5个水龙头高度各不相同，从儿童到成人及轮椅使用者都能方便使用。"
+  },
+  {
+    "id": "sasazuka-greenway",
+    "rank": null,
+    "name": {
+      "zh": "笹塚绿道公厕",
+      "ja": "笹塚緑道公衆トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "小林纯子",
+    "designer_en": "Junko Kobayashi",
+    "address": "東京都渋谷区笹塚1-29",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=笹塚緑道公衆トイレ",
+    "official_page": "https://tokyotoilet.jp/ja/sasazuka_greenway/",
+    "tags": [
+      "小林纯子",
+      "高架下",
+      "耐候性钢板",
+      "黄色屋檐",
+      "兔子"
+    ],
+    "description": "小林纯子设计的「まちあかりのトイレ」。不同高度的圆筒形建筑配上巨大的黄色椭圆屋檐，外墙圆窗会映出兔子图案。建筑使用耐候性钢板，专门针对京王线高架下的压迫感进行设计。"
+  },
+  {
+    "id": "ebisu-park",
+    "rank": null,
+    "name": {
+      "zh": "惠比寿公园迷宫公厕",
+      "ja": "恵比寿公園トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "片山正通 / Wonderwall",
+    "designer_en": "Masamichi Katayama / Wonderwall",
+    "address": "東京都渋谷区恵比寿西1-19-1",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=恵比寿公園トイレ",
+    "official_page": "https://tokyotoilet.jp/",
+    "tags": [
+      "片山正通",
+      "Wonderwall",
+      "迷宫",
+      "混凝土",
+      "Modern Kawaya"
+    ],
+    "description": "片山正通 / Wonderwall设计的「Modern Kawaya」。15道混凝土墙以错落方式排列，形成类似迷宫的空间，同时划分出男厕、女厕和无障碍厕所。灵感来自日本古代厕所「川屋」，建筑与周围公园环境自然融合。"
+  },
+  {
+    "id": "yoyogi-hachiman",
+    "rank": null,
+    "name": {
+      "zh": "代代木八幡宫蘑菇公厕",
+      "ja": "代々木八幡公衆トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "伊东丰雄",
+    "designer_en": "Toyo Ito",
+    "address": "東京都渋谷区代々木5-1-2",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=代々木八幡公衆トイレ",
+    "official_page": "https://tokyotoilet.jp/",
+    "tags": [
+      "伊东丰雄",
+      "树林",
+      "蘑菇",
+      "木漏れ日",
+      "禅意"
+    ],
+    "description": "伊东丰雄设计的公共厕所，位于代代木八幡一带的树林中。建筑以多个小屋状体量构成，融入周围自然环境，树叶间洒下的木漏れ日为这里增添了非常安静的氛围。"
+  },
+  {
+    "id": "haruno-ogawa",
+    "rank": null,
+    "name": {
+      "zh": "春之小川社区公园透明厕所",
+      "ja": "はるのおがわコミュニティパークトイレ"
+    },
+    "type": "public_toilet",
+    "designer": "坂 茂",
+    "designer_en": "Shigeru Ban",
+    "address": "東京都渋谷区代々木5-68-1",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=はるのおがわコミュニティパークトイレ",
+    "official_page": "https://tokyotoilet.jp/haruno_ogawa/",
+    "tags": [
+      "坂茂",
+      "透明玻璃",
+      "彩色",
+      "蓝绿色",
+      "夜景"
+    ],
+    "description": "坂茂设计的透明厕所，与代代木深町小公园厕所采用相同的电控透明玻璃技术。未使用时透明，使用时变为不透明，夜间亮灯后像公园中的灯笼。整体蓝绿色调与周围树木相呼应。"
+  },
+  {
+    "id": "sendagaya-station",
+    "rank": null,
+    "name": {
+      "zh": "千驮谷站反重力公厕",
+      "ja": "千駄ヶ谷駅前公衆トイレ"
+    },
+    "type": "public_toilet",
+    "designer": "SUPPOSE DESIGN OFFICE（谷尻誠・吉田愛）",
+    "designer_en": "SUPPOSE DESIGN OFFICE",
+    "address": "東京都渋谷区千駄ヶ谷1丁目",
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=千駄ヶ谷駅前公衆トイレ",
+    "official_page": "https://suppose.jp/works/%E5%8D%83%E9%A7%84%E3%83%B6%E8%B0%B7%E9%A7%85%E5%89%8D%E5%85%AC%E8%A1%86%E3%83%88%E3%82%A4%E3%83%AC/",
+    "tags": [
+      "SUPPOSE DESIGN OFFICE",
+      "谷尻誠",
+      "吉田愛",
+      "混凝土",
+      "悬浮",
+      "自然光"
+    ],
+    "description": "千駄ヶ谷站前的公厕。7.5米高的混凝土立方体外墙整体离地约500mm，形成悬浮般的视觉效果。内部通过屋顶狭长缝隙引入自然光，并利用混凝土洗出面产生丰富的光影变化。"
+  }
+]
