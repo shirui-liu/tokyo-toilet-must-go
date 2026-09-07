@@ -15,7 +15,15 @@ function applyCopy() {
   document.documentElement.lang = language === 'zh' ? 'zh-CN' : language;
   document.querySelectorAll('[data-copy]').forEach((element) => { element.innerHTML = copy[language][element.dataset.copy]; });
   document.querySelectorAll('[data-copy-placeholder]').forEach((element) => { element.placeholder = copy[language][element.dataset.copyPlaceholder]; });
-  function escapeHtml(value) { return String(value).replace(/[&<>"']/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]); }
+  document.querySelectorAll('.language-button').forEach((button) => button.classList.toggle('is-active', button.dataset.language === language));
+  renderToilets();
+  renderMap();
+}
+
+function escapeHtml(value) {
+  return String(value).replace(/[&<>"']/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
+}
+
 function renderMap() {
   if (!window.L || !toilets.length) return;
   if (!map) { map = L.map('toilet-map', { scrollWheelZoom: false }); L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap contributors' }).addTo(map); }
@@ -30,10 +38,6 @@ function renderMap() {
   });
   const points = markers.map((marker) => marker.getLatLng());
   if (points.length) map.fitBounds(L.latLngBounds(points), { padding: [36, 36], maxZoom: 14 });
-}
-
-document.querySelectorAll('.language-button').forEach((button) => button.classList.toggle('is-active', button.dataset.language === language));
-  renderToilets();
 }
 
 function cardTemplate(toilet, index) {
@@ -58,12 +62,23 @@ function renderToilets() {
   document.querySelector('#result-count').textContent = `${filtered.length} ${copy[language].count}`;
 }
 
-document.querySelectorAll('.language-button').forEach((button) => button.addEventListener('click', () => { language = button.dataset.language; applyCopy(); renderMap(); }));
+document.querySelectorAll('.language-button').forEach((button) => button.addEventListener('click', () => { language = button.dataset.language; applyCopy(); }));
 document.querySelector('#search').addEventListener('input', renderToilets);
 
-const dataPath = window.location.pathname.includes('/site/') ? '../data/toilets.json' : 'data/toilets.json';
+const scriptUrl = document.querySelector('script[src$="script.js"]').src;
+const dataPaths = [
+  new URL('data/toilets.json', document.baseURI).href,
+  new URL('../data/toilets.json', scriptUrl).href
+];
 
-fetch(dataPath)
-  .then((response) => { if (!response.ok) throw new Error('Could not load toilet data'); return response.json(); })
+function fetchToiletData([dataPath, ...fallbackPaths]) {
+  return fetch(dataPath).then((response) => {
+    if (response.ok) return response.json();
+    if (!fallbackPaths.length) throw new Error('Could not load toilet data');
+    return fetchToiletData(fallbackPaths);
+  });
+}
+
+fetchToiletData(dataPaths)
   .then((data) => { toilets = data.sort((a, b) => (a.rank ?? 999) - (b.rank ?? 999)); applyCopy(); })
   .catch(() => { document.querySelector('#toilet-grid').innerHTML = '<p class="empty-state">Unable to load toilet data. Please open this page through a local server.</p>'; });
