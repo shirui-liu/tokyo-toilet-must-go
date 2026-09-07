@@ -18,15 +18,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=代々木深町小公園トイレ",
     "official_page": "https://tokyotoilet.jp/yoyogifukamachi/",
     "tags": {
-      "zh": ["建筑设计", "坂茂", "THE TOKYO TOILET"],
-      "ja": ["建築デザイン", "坂茂", "THE TOKYO TOILET"],
-      "en": ["Architecture", "Shigeru Ban", "THE TOKYO TOILET"]
+      "zh": [
+        "建筑设计",
+        "坂茂",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "建築デザイン",
+        "坂茂",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Architecture",
+        "Shigeru Ban",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "由建筑师坂茂设计的透明彩色玻璃厕所，是 THE TOKYO TOILET 项目中最具代表性的作品之一。使用前可以看到内部是否有人，夜间亮灯后也非常醒目。",
       "ja": "建築家・坂茂が設計した、透明なカラフルガラスを使用したトイレ。THE TOKYO TOILETを代表する作品のひとつで、使用前に内部の状況を確認できるユニークなデザインです。",
       "en": "Designed by architect Shigeru Ban, this toilet uses transparent colored glass walls. It is one of the most iconic facilities of THE TOKYO TOILET project, allowing visitors to check whether the toilet is occupied before entering."
-    }
+    },
+    "coordinates": [
+      35.66936,
+      139.69071
+    ]
   },
   {
     "id": "nabeshima-shoto",
@@ -47,15 +63,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=鍋島松濤公園トイレ",
     "official_page": "https://tokyotoilet.jp/nabeshima/",
     "tags": {
-      "zh": ["建筑设计", "隈研吾", "THE TOKYO TOILET"],
-      "ja": ["建築デザイン", "隈研吾", "THE TOKYO TOILET"],
-      "en": ["Architecture", "Kengo Kuma", "THE TOKYO TOILET"]
+      "zh": [
+        "建筑设计",
+        "隈研吾",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "建築デザイン",
+        "隈研吾",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Architecture",
+        "Kengo Kuma",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "由隈研吾设计，以木材和自然环境融合为主题的公共厕所。建筑本身与公园景观结合得非常自然。",
       "ja": "隈研吾が設計した、木材と自然環境との調和をテーマにした公衆トイレ。公園の景観に自然に溶け込むデザインが特徴です。",
       "en": "Designed by Kengo Kuma, this public toilet focuses on harmony between timber architecture and the surrounding natural environment. The building blends naturally into the park."
-    }
+    },
+    "coordinates": [
+      35.65963,
+      139.69154
+    ]
   },
   {
     "id": "jingu-dori",
@@ -76,15 +108,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=神宮通公園トイレ",
     "official_page": "https://tokyotoilet.jp/jingudori/",
     "tags": {
-      "zh": ["建筑设计", "安藤忠雄", "THE TOKYO TOILET"],
-      "ja": ["建築デザイン", "安藤忠雄", "THE TOKYO TOILET"],
-      "en": ["Architecture", "Tadao Ando", "THE TOKYO TOILET"]
+      "zh": [
+        "建筑设计",
+        "安藤忠雄",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "建築デザイン",
+        "安藤忠雄",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Architecture",
+        "Tadao Ando",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "由安藤忠雄设计的简洁现代主义公共厕所，以混凝土和圆形空间为主要特征。",
       "ja": "安藤忠雄が設計した、シンプルでモダンな公衆トイレ。コンクリートと円形の空間構成が特徴です。",
       "en": "Designed by Tadao Ando, this minimalist modern public toilet features concrete architecture and distinctive circular spaces."
-    }
+    },
+    "coordinates": [
+      35.6661,
+      139.7042
+    ]
   },
   {
     "id": "ura-sando",
@@ -105,15 +153,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=裏参道公衆トイレ",
     "official_page": "https://tokyotoilet.jp/urasando/",
     "tags": {
-      "zh": ["设计", "Marc Newson", "THE TOKYO TOILET"],
-      "ja": ["デザイン", "Marc Newson", "THE TOKYO TOILET"],
-      "en": ["Design", "Marc Newson", "THE TOKYO TOILET"]
+      "zh": [
+        "设计",
+        "Marc Newson",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "デザイン",
+        "Marc Newson",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Design",
+        "Marc Newson",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "由澳大利亚设计师 Marc Newson 设计，造型极具未来感，是千驮谷一带值得顺路打卡的特色厕所。",
       "ja": "オーストラリア出身のデザイナー、Marc Newsonが手がけた、未来的なデザインが特徴の公衆トイレです。",
       "en": "Designed by Australian designer Marc Newson, this public toilet features a distinctly futuristic design and is worth a stop when exploring Sendagaya."
-    }
+    },
+    "coordinates": [
+      35.6773,
+      139.7049
+    ]
   },
   {
     "id": "nishi-sando",
@@ -134,15 +198,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=西参道公衆トイレ",
     "official_page": "https://tokyotoilet.jp/nishisando/",
     "tags": {
-      "zh": ["建筑设计", "藤本壮介", "THE TOKYO TOILET"],
-      "ja": ["建築デザイン", "藤本壮介", "THE TOKYO TOILET"],
-      "en": ["Architecture", "Sou Fujimoto", "THE TOKYO TOILET"]
+      "zh": [
+        "建筑设计",
+        "藤本壮介",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "建築デザイン",
+        "藤本壮介",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Architecture",
+        "Sou Fujimoto",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "藤本壮介设计的公共厕所，以轻盈、开放的建筑形式和几何结构为特色。",
       "ja": "藤本壮介が設計した公衆トイレ。軽やかで開放的な建築表現と幾何学的な構成が特徴です。",
       "en": "Designed by Sou Fujimoto, this public toilet features a light, open architectural form with distinctive geometric elements."
-    }
+    },
+    "coordinates": [
+      35.6803,
+      139.6895
+    ]
   },
   {
     "id": "sasazuka-greenway",
@@ -163,15 +243,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=笹塚緑道公衆トイレ",
     "official_page": "https://tokyotoilet.jp/sasazuka/",
     "tags": {
-      "zh": ["女性设计师", "小林纯子", "THE TOKYO TOILET"],
-      "ja": ["女性デザイナー", "小林純子", "THE TOKYO TOILET"],
-      "en": ["Female Designer", "Junko Kobayashi", "THE TOKYO TOILET"]
+      "zh": [
+        "女性设计师",
+        "小林纯子",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "女性デザイナー",
+        "小林純子",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Female Designer",
+        "Junko Kobayashi",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "由小林纯子设计，重视使用者体验与安全性的公共厕所。",
       "ja": "小林純子が設計した、利用者の快適性と安全性を重視した公衆トイレです。",
       "en": "Designed by Junko Kobayashi, this public toilet places particular emphasis on comfort, usability, and safety."
-    }
+    },
+    "coordinates": [
+      35.6739,
+      139.6674
+    ]
   },
   {
     "id": "ebisu-park",
@@ -192,15 +288,31 @@
     "google_maps": "https://maps.app.goo.gl/CU5pkm3U3qQMHaUbA",
     "official_page": "https://tokyotoilet.jp/ebisu/",
     "tags": {
-      "zh": ["迷宫", "设计", "THE TOKYO TOILET"],
-      "ja": ["迷路", "デザイン", "THE TOKYO TOILET"],
-      "en": ["Maze", "Design", "THE TOKYO TOILET"]
+      "zh": [
+        "迷宫",
+        "设计",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "迷路",
+        "デザイン",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Maze",
+        "Design",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "惠比寿公园内极具特色的迷宫式厕所，由片山正通 / Wonderwall 设计。内部空间曲折，非常有辨识度。",
       "ja": "恵比寿公園にある、片山正通 / Wonderwallによる迷路のようなデザインが特徴の公衆トイレ。内部の動線が複雑で、非常に印象的です。",
       "en": "Located in Ebisu Park, this distinctive maze-like toilet was designed by Masamichi Katayama / Wonderwall. Its winding interior layout makes it particularly memorable."
-    }
+    },
+    "coordinates": [
+      35.6469,
+      139.7075
+    ]
   },
   {
     "id": "yoyogi-hachiman",
@@ -221,15 +333,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=代々木八幡公衆トイレ",
     "official_page": "https://tokyotoilet.jp/yoyogihachiman/",
     "tags": {
-      "zh": ["建筑设计", "伊东丰雄", "THE TOKYO TOILET"],
-      "ja": ["建築デザイン", "伊東豊雄", "THE TOKYO TOILET"],
-      "en": ["Architecture", "Toyo Ito", "THE TOKYO TOILET"]
+      "zh": [
+        "建筑设计",
+        "伊东丰雄",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "建築デザイン",
+        "伊東豊雄",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Architecture",
+        "Toyo Ito",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "由伊东丰雄设计，以圆润、有机的建筑形态为特色。",
       "ja": "伊東豊雄が設計した、丸みを帯びた有機的な建築形態が特徴の公衆トイレです。",
       "en": "Designed by Toyo Ito, this public toilet is characterized by its rounded and organic architectural form."
-    }
+    },
+    "coordinates": [
+      35.6695,
+      139.6866
+    ]
   },
   {
     "id": "haru-no-ogawa",
@@ -250,15 +378,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=はるのおがわコミュニティパークトイレ",
     "official_page": "https://tokyotoilet.jp/harunogawa/",
     "tags": {
-      "zh": ["建筑设计", "坂茂", "THE TOKYO TOILET"],
-      "ja": ["建築デザイン", "坂茂", "THE TOKYO TOILET"],
-      "en": ["Architecture", "Shigeru Ban", "THE TOKYO TOILET"]
+      "zh": [
+        "建筑设计",
+        "坂茂",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "建築デザイン",
+        "坂茂",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Architecture",
+        "Shigeru Ban",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "坂茂设计的社区公园厕所，延续了其对透明材料和公共空间的独特思考。",
       "ja": "坂茂が設計したコミュニティパークの公衆トイレ。透明な素材と公共空間に対する坂茂独自の考え方が表現されています。",
       "en": "Designed by Shigeru Ban, this community park toilet continues his distinctive approach to transparency, materials, and public space."
-    }
+    },
+    "coordinates": [
+      35.6711,
+      139.6865
+    ]
   },
   {
     "id": "sendagaya-station",
@@ -279,15 +423,31 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=千駄ヶ谷駅前公衆トイレ",
     "official_page": "https://tokyotoilet.jp/sendagaya/",
     "tags": {
-      "zh": ["建筑设计", "SUPPOSE DESIGN OFFICE", "THE TOKYO TOILET"],
-      "ja": ["建築デザイン", "SUPPOSE DESIGN OFFICE", "THE TOKYO TOILET"],
-      "en": ["Architecture", "SUPPOSE DESIGN OFFICE", "THE TOKYO TOILET"]
+      "zh": [
+        "建筑设计",
+        "SUPPOSE DESIGN OFFICE",
+        "THE TOKYO TOILET"
+      ],
+      "ja": [
+        "建築デザイン",
+        "SUPPOSE DESIGN OFFICE",
+        "THE TOKYO TOILET"
+      ],
+      "en": [
+        "Architecture",
+        "SUPPOSE DESIGN OFFICE",
+        "THE TOKYO TOILET"
+      ]
     },
     "description": {
       "zh": "由 SUPPOSE DESIGN OFFICE 设计，高达约7.5米的墙体和悬浮式构造形成独特的空间感。",
       "ja": "SUPPOSE DESIGN OFFICEが設計。高さ約7.5mの壁と浮遊するような構造によって、独特の空間体験を生み出しています。",
       "en": "Designed by SUPPOSE DESIGN OFFICE, this toilet creates a distinctive spatial experience with walls approximately 7.5 meters high and a floating architectural structure."
-    }
+    },
+    "coordinates": [
+      35.6818,
+      139.7124
+    ]
   },
   {
     "id": "meguro-gajoen",
@@ -308,176 +468,306 @@
     "google_maps": "https://www.google.com/maps/search/?api=1&query=ホテル雅叙園東京",
     "official_page": "https://www.hotelgajoen-tokyo.com/",
     "tags": {
-      "zh": ["豪华厕所", "酒店", "艺术"],
-      "ja": ["豪華トイレ", "ホテル", "アート"],
-      "en": ["Luxury Toilet", "Hotel", "Art"]
+      "zh": [
+        "豪华厕所",
+        "酒店",
+        "艺术"
+      ],
+      "ja": [
+        "豪華トイレ",
+        "ホテル",
+        "アート"
+      ],
+      "en": [
+        "Luxury Toilet",
+        "Hotel",
+        "Art"
+      ]
     },
     "description": {
       "zh": "酒店雅叙园东京内部以豪华装饰和艺术空间闻名，厕所本身也非常具有特色。它并不属于 THE TOKYO TOILET 项目，但非常适合作为东京特色厕所打卡地点。",
       "ja": "ホテル雅叙園東京は豪華な装飾とアート空間で知られており、館内のトイレも非常に印象的です。THE TOKYO TOILETの施設ではありませんが、東京の特色あるトイレとして訪れる価値があります。",
       "en": "Hotel Gajoen Tokyo is famous for its lavish interiors and art spaces, and its toilets are equally distinctive. It is not part of THE TOKYO TOILET project, but is worth visiting as a unique Tokyo toilet experience."
-    }
+    },
+    "coordinates": [
+      35.6339,
+      139.7155
+    ]
   },
   {
-  "id": "ebisu-station-west",
-  "rank": null,
-  "name": {
-    "zh": "惠比寿站西口公共厕所",
-    "ja": "恵比寿駅西口公衆トイレ",
-    "en": "Ebisu Station West Exit Public Toilet"
+    "id": "ebisu-station-west",
+    "rank": null,
+    "name": {
+      "zh": "惠比寿站西口公共厕所",
+      "ja": "恵比寿駅西口公衆トイレ",
+      "en": "Ebisu Station West Exit Public Toilet"
+    },
+    "designer": "佐藤可士和",
+    "designer_en": "Kashiwa Sato",
+    "address": {
+      "zh": "东京都涩谷区惠比寿南1-5-8",
+      "ja": "東京都渋谷区恵比寿南1-5-8",
+      "en": "1-5-8 Ebisu-Minami, Shibuya, Tokyo"
+    },
+    "tags": {
+      "zh": [
+        "THE TOKYO TOILET",
+        "佐藤可士和",
+        "车站附近",
+        "设计厕所"
+      ],
+      "ja": [
+        "THE TOKYO TOILET",
+        "佐藤可士和",
+        "駅近",
+        "デザイン・トイレ"
+      ],
+      "en": [
+        "THE TOKYO TOILET",
+        "Kashiwa Sato",
+        "Near station",
+        "Design toilet"
+      ]
+    },
+    "description": {
+      "zh": "位于惠比寿站西口附近，由佐藤可士和设计。以悬浮的铝制格栅包围中央立方体，细密的线条让整个厕所具有非常鲜明的现代设计感。",
+      "ja": "恵比寿駅西口の近くにある、佐藤可士和デザインの公共トイレ。中央のキューブをアルミルーバーで囲む、ミニマルで現代的なデザインが特徴です。",
+      "en": "Located near the west exit of Ebisu Station, this public toilet was designed by Kashiwa Sato. Its central cube is surrounded by floating aluminum louvers, creating a distinctive minimalist and contemporary appearance."
+    },
+    "google_maps": "https://maps.app.goo.gl/x1PGaWdhUBzMN9T1A",
+    "coordinates": [
+      35.6466,
+      139.709
+    ]
   },
-  "designer": "佐藤可士和",
-  "designer_en": "Kashiwa Sato",
-  "address": {
-    "zh": "东京都涩谷区惠比寿南1-5-8",
-    "ja": "東京都渋谷区恵比寿南1-5-8",
-    "en": "1-5-8 Ebisu-Minami, Shibuya, Tokyo"
+  {
+    "id": "hatagaya-public",
+    "rank": null,
+    "name": {
+      "zh": "幡谷公共厕所",
+      "ja": "幡ヶ谷公衆トイレ",
+      "en": "Hatagaya Public Toilet"
+    },
+    "designer": "Miles Pennington / 东京大学 DLX Design Lab",
+    "designer_en": "Miles Pennington / University of Tokyo DLX Design Lab",
+    "address": {
+      "zh": "东京都涩谷区幡谷3-37-8",
+      "ja": "東京都渋谷区幡ヶ谷3-37-8",
+      "en": "3-37-8 Hatagaya, Shibuya, Tokyo"
+    },
+    "tags": {
+      "zh": [
+        "THE TOKYO TOILET",
+        "Miles Pennington",
+        "东京大学",
+        "设计厕所"
+      ],
+      "ja": [
+        "THE TOKYO TOILET",
+        "Miles Pennington",
+        "東京大学",
+        "デザイン・トイレ"
+      ],
+      "en": [
+        "THE TOKYO TOILET",
+        "Miles Pennington",
+        "University of Tokyo",
+        "Design toilet"
+      ]
+    },
+    "description": {
+      "zh": "由 Miles Pennington 与东京大学 DLX Design Lab 共同参与设计，是 THE TOKYO TOILET 项目中较为独特的一座公共厕所。",
+      "ja": "マイルス・ペニントンと東京大学DLXデザインラボが手がけた、THE TOKYO TOILETの特徴的な公共トイレのひとつです。",
+      "en": "Designed by Miles Pennington and the University of Tokyo DLX Design Lab, this is one of the distinctive public toilets created as part of THE TOKYO TOILET project."
+    },
+    "google_maps": "https://maps.app.goo.gl/VwmGoX59LdkND6YW9",
+    "coordinates": [
+      35.6768,
+      139.6766
+    ]
   },
-  "tags": {
-    "zh": ["THE TOKYO TOILET", "佐藤可士和", "车站附近", "设计厕所"],
-    "ja": ["THE TOKYO TOILET", "佐藤可士和", "駅近", "デザイン・トイレ"],
-    "en": ["THE TOKYO TOILET", "Kashiwa Sato", "Near station", "Design toilet"]
+  {
+    "id": "hiroo-higashi-park",
+    "rank": null,
+    "name": {
+      "zh": "广尾东公园厕所",
+      "ja": "広尾東公園トイレ",
+      "en": "Hiroo Higashi Park Toilet"
+    },
+    "designer": "后智仁",
+    "designer_en": "Tomohito Ushiro",
+    "address": {
+      "zh": "东京都涩谷区广尾4-2-27",
+      "ja": "東京都渋谷区広尾4-2-27",
+      "en": "4-2-27 Hiroo, Shibuya, Tokyo"
+    },
+    "tags": {
+      "zh": [
+        "THE TOKYO TOILET",
+        "后智仁",
+        "公园厕所",
+        "灯光设计"
+      ],
+      "ja": [
+        "THE TOKYO TOILET",
+        "後智仁",
+        "公園トイレ",
+        "ライティング"
+      ],
+      "en": [
+        "THE TOKYO TOILET",
+        "Tomohito Ushiro",
+        "Park toilet",
+        "Lighting"
+      ]
+    },
+    "description": {
+      "zh": "位于广尾东公园内，由后智仁设计。厕所背面的巨大照明面板拥有大量不同的灯光变化，让建筑在白天与夜晚呈现完全不同的表情。",
+      "ja": "広尾東公園内にある、後智仁デザインの公共トイレ。建物裏側の大きな照明パネルには多数のライティングパターンがあり、昼と夜で異なる表情を見せます。",
+      "en": "Located in Hiroo Higashi Park and designed by Tomohito Ushiro, the toilet features a large illuminated panel with numerous lighting patterns, giving the building different expressions by day and night."
+    },
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=広尾東公園トイレ",
+    "coordinates": [
+      35.6501,
+      139.7206
+    ]
   },
-  "description": {
-    "zh": "位于惠比寿站西口附近，由佐藤可士和设计。以悬浮的铝制格栅包围中央立方体，细密的线条让整个厕所具有非常鲜明的现代设计感。",
-    "ja": "恵比寿駅西口の近くにある、佐藤可士和デザインの公共トイレ。中央のキューブをアルミルーバーで囲む、ミニマルで現代的なデザインが特徴です。",
-    "en": "Located near the west exit of Ebisu Station, this public toilet was designed by Kashiwa Sato. Its central cube is surrounded by floating aluminum louvers, creating a distinctive minimalist and contemporary appearance."
+  {
+    "id": "ebisu-higashi-park",
+    "rank": null,
+    "name": {
+      "zh": "惠比寿东公园厕所",
+      "ja": "恵比寿東公園トイレ",
+      "en": "Ebisu Higashi Park Toilet"
+    },
+    "designer": "槙文彦",
+    "designer_en": "Fumihiko Maki",
+    "address": {
+      "zh": "东京都涩谷区惠比寿1-2-16",
+      "ja": "東京都渋谷区恵比寿1-2-16",
+      "en": "1-2-16 Ebisu, Shibuya, Tokyo"
+    },
+    "tags": {
+      "zh": [
+        "THE TOKYO TOILET",
+        "槙文彦",
+        "建筑设计",
+        "公园厕所"
+      ],
+      "ja": [
+        "THE TOKYO TOILET",
+        "槇文彦",
+        "建築デザイン",
+        "公園トイレ"
+      ],
+      "en": [
+        "THE TOKYO TOILET",
+        "Fumihiko Maki",
+        "Architecture",
+        "Park toilet"
+      ]
+    },
+    "description": {
+      "zh": "由建筑师槙文彦设计，位于被称为“章鱼公园”的惠比寿东公园。厕所采用鱿鱼般的柔和曲线造型，半透明玻璃带来柔和的自然光。",
+      "ja": "建築家・槇文彦が手がけた、通称「タコ公園」と呼ばれる恵比寿東公園のトイレ。イカをモチーフにした柔らかな曲線と、すりガラスから差し込む光が特徴です。",
+      "en": "Designed by architect Fumihiko Maki, this toilet stands in Ebisu Higashi Park, known locally as the “Octopus Park.” Its soft curves are inspired by a squid, while translucent glass creates a gentle atmosphere."
+    },
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=恵比寿東公園トイレ",
+    "coordinates": [
+      35.6457,
+      139.7115
+    ]
   },
-  "google_maps": "https://maps.app.goo.gl/x1PGaWdhUBzMN9T1A"
-},
-{
-  "id": "hatagaya-public",
-  "rank": null,
-  "name": {
-    "zh": "幡谷公共厕所",
-    "ja": "幡ヶ谷公衆トイレ",
-    "en": "Hatagaya Public Toilet"
+  {
+    "id": "higashi-3-chome",
+    "rank": null,
+    "name": {
+      "zh": "东三丁目公共厕所",
+      "ja": "東三丁目公衆トイレ",
+      "en": "Higashi 3-chome Public Toilet"
+    },
+    "designer": "田村奈穂",
+    "designer_en": "Nao Tamura",
+    "address": {
+      "zh": "东京都涩谷区东3-27-1",
+      "ja": "東京都渋谷区東3-27-1",
+      "en": "3-27-1 Higashi, Shibuya, Tokyo"
+    },
+    "tags": {
+      "zh": [
+        "THE TOKYO TOILET",
+        "田村奈穂",
+        "红色建筑",
+        "Perfect Days"
+      ],
+      "ja": [
+        "THE TOKYO TOILET",
+        "田村奈穂",
+        "赤い建築",
+        "Perfect Days"
+      ],
+      "en": [
+        "THE TOKYO TOILET",
+        "Nao Tamura",
+        "Red architecture",
+        "Perfect Days"
+      ]
+    },
+    "description": {
+      "zh": "一座位于山手线沿线的醒目红色厕所，由田村奈穂设计。设计强调隐私、安全与包容性，并因出现在电影《Perfect Days》中而受到关注。",
+      "ja": "山手線沿いにある、ひときわ目を引く赤い公共トイレ。田村奈穂がプライバシー、安全性、インクルーシブ性を重視してデザインし、映画『PERFECT DAYS』にも登場しました。",
+      "en": "A striking red public toilet along the Yamanote Line, designed by Nao Tamura with a focus on privacy, safety, and inclusivity. It also appears in the film “Perfect Days.”"
+    },
+    "google_maps": "https://maps.app.goo.gl/P8wgrMy1ktBDtUXw5",
+    "coordinates": [
+      35.6444,
+      139.7113
+    ]
   },
-  "designer": "Miles Pennington / 东京大学 DLX Design Lab",
-  "designer_en": "Miles Pennington / University of Tokyo DLX Design Lab",
-  "address": {
-    "zh": "东京都涩谷区幡谷3-37-8",
-    "ja": "東京都渋谷区幡ヶ谷3-37-8",
-    "en": "3-37-8 Hatagaya, Shibuya, Tokyo"
-  },
-  "tags": {
-    "zh": ["THE TOKYO TOILET", "Miles Pennington", "东京大学", "设计厕所"],
-    "ja": ["THE TOKYO TOILET", "Miles Pennington", "東京大学", "デザイン・トイレ"],
-    "en": ["THE TOKYO TOILET", "Miles Pennington", "University of Tokyo", "Design toilet"]
-  },
-  "description": {
-    "zh": "由 Miles Pennington 与东京大学 DLX Design Lab 共同参与设计，是 THE TOKYO TOILET 项目中较为独特的一座公共厕所。",
-    "ja": "マイルス・ペニントンと東京大学DLXデザインラボが手がけた、THE TOKYO TOILETの特徴的な公共トイレのひとつです。",
-    "en": "Designed by Miles Pennington and the University of Tokyo DLX Design Lab, this is one of the distinctive public toilets created as part of THE TOKYO TOILET project."
-  },
-  "google_maps": "https://maps.app.goo.gl/VwmGoX59LdkND6YW9"
-},
-{
-  "id": "hiroo-higashi-park",
-  "rank": null,
-  "name": {
-    "zh": "广尾东公园厕所",
-    "ja": "広尾東公園トイレ",
-    "en": "Hiroo Higashi Park Toilet"
-  },
-  "designer": "后智仁",
-  "designer_en": "Tomohito Ushiro",
-  "address": {
-    "zh": "东京都涩谷区广尾4-2-27",
-    "ja": "東京都渋谷区広尾4-2-27",
-    "en": "4-2-27 Hiroo, Shibuya, Tokyo"
-  },
-  "tags": {
-    "zh": ["THE TOKYO TOILET", "后智仁", "公园厕所", "灯光设计"],
-    "ja": ["THE TOKYO TOILET", "後智仁", "公園トイレ", "ライティング"],
-    "en": ["THE TOKYO TOILET", "Tomohito Ushiro", "Park toilet", "Lighting"]
-  },
-  "description": {
-    "zh": "位于广尾东公园内，由后智仁设计。厕所背面的巨大照明面板拥有大量不同的灯光变化，让建筑在白天与夜晚呈现完全不同的表情。",
-    "ja": "広尾東公園内にある、後智仁デザインの公共トイレ。建物裏側の大きな照明パネルには多数のライティングパターンがあり、昼と夜で異なる表情を見せます。",
-    "en": "Located in Hiroo Higashi Park and designed by Tomohito Ushiro, the toilet features a large illuminated panel with numerous lighting patterns, giving the building different expressions by day and night."
-  },
-  "google_maps": "https://www.google.com/maps/search/?api=1&query=広尾東公園トイレ"
-},
-{
-  "id": "ebisu-higashi-park",
-  "rank": null,
-  "name": {
-    "zh": "惠比寿东公园厕所",
-    "ja": "恵比寿東公園トイレ",
-    "en": "Ebisu Higashi Park Toilet"
-  },
-  "designer": "槙文彦",
-  "designer_en": "Fumihiko Maki",
-  "address": {
-    "zh": "东京都涩谷区惠比寿1-2-16",
-    "ja": "東京都渋谷区恵比寿1-2-16",
-    "en": "1-2-16 Ebisu, Shibuya, Tokyo"
-  },
-  "tags": {
-    "zh": ["THE TOKYO TOILET", "槙文彦", "建筑设计", "公园厕所"],
-    "ja": ["THE TOKYO TOILET", "槇文彦", "建築デザイン", "公園トイレ"],
-    "en": ["THE TOKYO TOILET", "Fumihiko Maki", "Architecture", "Park toilet"]
-  },
-  "description": {
-    "zh": "由建筑师槙文彦设计，位于被称为“章鱼公园”的惠比寿东公园。厕所采用鱿鱼般的柔和曲线造型，半透明玻璃带来柔和的自然光。",
-    "ja": "建築家・槇文彦が手がけた、通称「タコ公園」と呼ばれる恵比寿東公園のトイレ。イカをモチーフにした柔らかな曲線と、すりガラスから差し込む光が特徴です。",
-    "en": "Designed by architect Fumihiko Maki, this toilet stands in Ebisu Higashi Park, known locally as the “Octopus Park.” Its soft curves are inspired by a squid, while translucent glass creates a gentle atmosphere."
-  },
-  "google_maps": "https://www.google.com/maps/search/?api=1&query=恵比寿東公園トイレ"
-},
-{
-  "id": "higashi-3-chome",
-  "rank": null,
-  "name": {
-    "zh": "东三丁目公共厕所",
-    "ja": "東三丁目公衆トイレ",
-    "en": "Higashi 3-chome Public Toilet"
-  },
-  "designer": "田村奈穂",
-  "designer_en": "Nao Tamura",
-  "address": {
-    "zh": "东京都涩谷区东3-27-1",
-    "ja": "東京都渋谷区東3-27-1",
-    "en": "3-27-1 Higashi, Shibuya, Tokyo"
-  },
-  "tags": {
-    "zh": ["THE TOKYO TOILET", "田村奈穂", "红色建筑", "Perfect Days"],
-    "ja": ["THE TOKYO TOILET", "田村奈穂", "赤い建築", "Perfect Days"],
-    "en": ["THE TOKYO TOILET", "Nao Tamura", "Red architecture", "Perfect Days"]
-  },
-  "description": {
-    "zh": "一座位于山手线沿线的醒目红色厕所，由田村奈穂设计。设计强调隐私、安全与包容性，并因出现在电影《Perfect Days》中而受到关注。",
-    "ja": "山手線沿いにある、ひときわ目を引く赤い公共トイレ。田村奈穂がプライバシー、安全性、インクルーシブ性を重視してデザインし、映画『PERFECT DAYS』にも登場しました。",
-    "en": "A striking red public toilet along the Yamanote Line, designed by Nao Tamura with a focus on privacy, safety, and inclusivity. It also appears in the film “Perfect Days.”"
-  },
-  "google_maps": "https://maps.app.goo.gl/P8wgrMy1ktBDtUXw5"
-},
-{
-  "id": "nishihara-1-chome-park",
-  "rank": null,
-  "name": {
-    "zh": "西原一丁目公园厕所",
-    "ja": "西原一丁目公園トイレ",
-    "en": "Nishihara 1-chome Park Toilet"
-  },
-  "designer": "坂倉竹之助",
-  "designer_en": "Takenosuke Sakakura",
-  "address": {
-    "zh": "东京都涩谷区西原1-29-1",
-    "ja": "東京都渋谷区西原1-29-1",
-    "en": "1-29-1 Nishihara, Shibuya, Tokyo"
-  },
-  "tags": {
-    "zh": ["THE TOKYO TOILET", "坂倉竹之助", "ANDON", "灯笼厕所"],
-    "ja": ["THE TOKYO TOILET", "坂倉竹之助", "ANDON", "行燈トイレ"],
-    "en": ["THE TOKYO TOILET", "Takenosuke Sakakura", "ANDON", "Lantern toilet"]
-  },
-  "description": {
-    "zh": "由建筑师坂倉竹之助设计，以“行灯（ANDON）”为概念。建筑通过光线与开放感改善公园环境，让厕所本身成为照亮公园的公共空间。",
-    "ja": "建築家・坂倉竹之助が「行燈（ANDON）」をコンセプトにデザイン。光と開放感を取り入れ、トイレそのものが公園を照らす公共空間となることを目指しています。",
-    "en": "Designed by architect Takenosuke Sakakura around the concept of an “andon” lantern. Light and openness are used to improve the park environment, turning the toilet itself into a welcoming public space."
-  },
-  "google_maps": "https://www.google.com/maps/search/?api=1&query=西原一丁目公園トイレ"
-}
+  {
+    "id": "nishihara-1-chome-park",
+    "rank": null,
+    "name": {
+      "zh": "西原一丁目公园厕所",
+      "ja": "西原一丁目公園トイレ",
+      "en": "Nishihara 1-chome Park Toilet"
+    },
+    "designer": "坂倉竹之助",
+    "designer_en": "Takenosuke Sakakura",
+    "address": {
+      "zh": "东京都涩谷区西原1-29-1",
+      "ja": "東京都渋谷区西原1-29-1",
+      "en": "1-29-1 Nishihara, Shibuya, Tokyo"
+    },
+    "tags": {
+      "zh": [
+        "THE TOKYO TOILET",
+        "坂倉竹之助",
+        "ANDON",
+        "灯笼厕所"
+      ],
+      "ja": [
+        "THE TOKYO TOILET",
+        "坂倉竹之助",
+        "ANDON",
+        "行燈トイレ"
+      ],
+      "en": [
+        "THE TOKYO TOILET",
+        "Takenosuke Sakakura",
+        "ANDON",
+        "Lantern toilet"
+      ]
+    },
+    "description": {
+      "zh": "由建筑师坂倉竹之助设计，以“行灯（ANDON）”为概念。建筑通过光线与开放感改善公园环境，让厕所本身成为照亮公园的公共空间。",
+      "ja": "建築家・坂倉竹之助が「行燈（ANDON）」をコンセプトにデザイン。光と開放感を取り入れ、トイレそのものが公園を照らす公共空間となることを目指しています。",
+      "en": "Designed by architect Takenosuke Sakakura around the concept of an “andon” lantern. Light and openness are used to improve the park environment, turning the toilet itself into a welcoming public space."
+    },
+    "google_maps": "https://www.google.com/maps/search/?api=1&query=西原一丁目公園トイレ",
+    "coordinates": [
+      35.6764,
+      139.6818
+    ]
+  }
 ]
